@@ -5,7 +5,22 @@
 
 .page-header {
   background-image: url('https://raw.githubusercontent.com/teseltech/Healthpack/master/assets/images/capsules-cure-drug-415825.jpg');
+  background-position: center;
     a {
     display: none;
+  }
+
+  .project-name {
+    margin-top: 0;
+    margin-bottom: 0.1rem;
+    text-shadow: 1px 1px #111;
+    text-transform: uppercase;
+  }
+
+  .project-tagline {
+    margin-bottom: 2rem;
+    font-weight: normal;
+    opacity: 0.7;
+    text-shadow: 0px 0px 12px black;
   }
 }
