@@ -8,7 +8,9 @@ We will manufacture and distribute safe, FDA approved medication that was discon
 
 Thousands of people live with chronic disease forcing them to take medications for the rest of their life and have no access to them.  While producing these medications might not make financial sense for a pharmaceutical conglomerate we think it's not only profitable, but it's and morally fulfilling. This is also close to our heart: Our CEO's family has gone through this ordeal in the past.
 
-> When my mom was diagnosed and began treatment her quality of life improved dramatically but a couple years into the treatment her medication was discontinued
+<blockquote class="shortquote">
+When my mom was diagnosed and began treatment her quality of life improved dramatically but a couple years into the treatment her medication was discontinued
+</blockquote>
 
 ## What we need
 
@@ -22,8 +24,9 @@ We need to answer many questions, so we'll do research and quick prototyping to 
 
 - Will insurance companies be a barrier for adoption?
 
-> When her medication was discontinued we were worried it had been pulled for safety reasons. Then we learned: not enough people have Sjögren syndrome so the lab was switching production to more profitable medications
-
+<blockquote class="shortquote">
+When her medication was discontinued we were worried it had been pulled for safety reasons. Then we learned: not enough people have Sjögren syndrome so the lab was switching production to more profitable medications
+</blockquote>
 
 ## Where we'll start
 
@@ -31,7 +34,9 @@ We've drafted a prototype around crowd funding. People would pledge towards a ba
 
 This allow us to know our demand beforehand and to sell entire batches. Since we'll target chronic deceases we could continue production for these patients indefinitely. From there on, we'll continue building our business model.
 
-> Her doctor found a brand of eye drops that contains the same active ingredient, so my mom's symptoms remain under control. It's ridiculous to me that my mom has to drink eye drops to treat her condition instead of having her pills.
+<blockquote class="shortquote">
+Her doctor found a brand of eye drops that contains the same ingredient, so my mom's symptoms remain under control. It's ridiculous to me that my mom has to drink eye drops to treat her condition instead of having her pills.
+</blockquote>
 
 ## Our inspiration
 
