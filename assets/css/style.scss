@@ -9,20 +9,25 @@
   background-size: 100%;
   background-color: white;
   background-position: right;
-  padding: 0;
 
+  padding: 0;
   .project-name{
     font-size: 4rem;
+    text-shadow: 1px 1px #111;
+    text-transform: uppercase;
   }
   .project-tagline{
-    font-size: 2rem;
+    font-size: 1.5rem;
+    background-color: rgba(0,0,0,0.9);
+    color: white;
   }
 
   div {
-    color: #ca6e34;
+    color: #ff6300;
     background-color: rgba(255,255,255,0.2);
     padding-top: 80px;
     padding-bottom: 80px;
+    
   }
 
     a {

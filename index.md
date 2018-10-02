@@ -1,4 +1,8 @@
-## What we'll do ##
+---
+title: Healthpack \| No one lacks their medicine for financial reasons
+---
+
+## What we'll do
 
 We will manufacture and distribute safe, FDA approved medication that was discontinued for financial reasons to patients who need it.
 
@@ -6,7 +10,7 @@ Thousands of people live with chronic disease forcing them to take medications f
 
 > When my mom was diagnosed and began treatment her quality of life improved dramatically but a couple years into the treatment her medication was discontinued
 
-## What we need ##
+## What we need
 
 We need to answer many questions, so we'll do research and quick prototyping to refine all the hows:
 
@@ -21,7 +25,7 @@ We need to answer many questions, so we'll do research and quick prototyping to 
 > When her medication was discontinued we were worried it had been pulled for safety reasons. Then we learned: not enough people have Sjögren syndrome so the lab was switching production to more profitable medications
 
 
-## Where we'll start ##
+## Where we'll start
 
 We've drafted a prototype around crowd funding. People would pledge towards a batch of, for example, Sjögren syndrome medication, and if the goal is met then we produce it and deliver it.
 
@@ -29,7 +33,7 @@ This allow us to know our demand beforehand and to sell entire batches. Since we
 
 > Her doctor found a brand of eye drops that contains the same active ingredient, so my mom's symptoms remain under control. It's ridiculous to me that my mom has to drink eye drops to treat her condition instead of having her pills.
 
-## Our inspiration ##
+## Our inspiration
 
 Al Roth, the Nobel laureate and Stanford professor of economics built a _Kidney Exchange_ back in 2003 where people in need of kidney transplant could be matched to kidney donors. In the same way we want to **match patients with the correct medication** and help them improve their quality of life.
 
@@ -37,7 +41,7 @@ Perfectly safe and useful medication stops being produced each year because ther
 
 As company outside of the value chain and not incentivized to discontinue products in favor of higher-margin, newer drugs we want to serve these people.
 
-## It's close to our heart ##
+## It's close to our heart
 
 Our CEO's family has gone through this ordeal in the past and he would like to take this opportunity to talk about it.
 
