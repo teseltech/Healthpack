@@ -94,4 +94,4 @@ Our CEO's family has gone through this ordeal in the past and he would like to t
 >
 > I've come across other instances of this phenomenon and I have experienced the fear and helplessness that comes from knowing what ails you but not being able to access the solution. I would like to help people with similar experiences to feel safe and have peace of mind, knowing that their medication will always be available for them.
 >
-> – Mario Rodriguez
+> – Mario Rodríguez
