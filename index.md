@@ -34,7 +34,7 @@ When her medication was discontinued we were worried it had been pulled for safe
 
 ## Where we'll start
 
-What we do know is that we want to build a sustainable business model around user centered tech that enables patients to lead healthy lives. We need to think in the long term because a lot of orphan diseases are chronic and require lifetime madication.
+What we do know is that we want to **build a sustainable business model** around user centered tech that enables patients to lead healthy lives. We need to think in the long term because a lot of orphan diseases are chronic and require lifetime madication.
 
 As company outside of the value chain and not incentivized to discontinue products in favor of higher-margin, newer drugs. We want to serve these people.
 
