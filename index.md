@@ -4,7 +4,7 @@ title: Healthpack \| The care you need
 
 ## What we'll do
 
-We will manufacture and distribute safe, FDA approved orphan drugs that was discontinued for financial reasons to patients who need it.
+We will manufacture and distribute safe, FDA approved orphan drugs that have been discontinued for financial reasons to patients who need it.
 
 Orphan drugs treat diseases that affect 200k people or less in the US at any given time. There are large industry incentives for R&D, but not many for keeping them in the market. Despite not meeting traditional sales targets, a multi-billion dollar market is left unattended, without access to the medicine they need to lead a normal, happy life. That's where we come in. Healthpack is a company that manufactures and distributes orphan drugs. Through our digital platform doctors and patients can order, track and receive the medicine they need. We're logistics experts and care deeply for patients who could be treated but have been left behind by the industry. We're smaller than traditional pharma companies but we're also nimble and can iterate quickly. Through our energy, focus on user experience, and innovation we aim to provide care for our patients for as long as they need it. 
 
