@@ -16,39 +16,21 @@ This is also close to our heart: Our CEO's family has gone through this ordeal i
 When my mom was diagnosed and began treatment her quality of life improved dramatically but a couple years into the treatment her medication was discontinued
 </blockquote>
 
-## What we need
+## Where we'll start
 
-We need to figure out if Healthpack can get started without a round of significant investment. Producing or importing medication is a capital intensive business and we want to figure our if scale is necessary to help even one patient. Scale might also be important because patients suffering orphan diseases are scattered across large geographies.
+What we do know is that we want to **build a sustainable business model** around user centered tech that enables patients to lead healthy lives. We need to think in the long term because a lot of orphan diseases are chronic and require lifetime medication.
 
-We also need to answer several questions, so we'll do research and quick prototyping to refine all the hows:
+As a company outside of the value chain we´re not incentivized to discontinue products in favor of higher-margin, newer drugs. We want to serve these people.
 
-- Should we target patients or doctors?
-
-- Should we outsource production to a small lab and just ensure quality?
-
-- Where should we launch?
-
-- Will insurance companies be a barrier for adoption?
+We're quite open to letting our findings lead the way. We're still doing research to determine the best way to provide medication for our patients that works best for them, their doctors and our company in order to provide sustainable, long-term care.
 
 <blockquote class="shortquote">
 When her medication was discontinued we were worried it had been pulled for safety reasons. Then we learned: not enough people have Sjögren syndrome so the lab was switching production to more profitable medications
 </blockquote>
 
-## Where we'll start
-
-What we do know is that we want to **build a sustainable business model** around user centered tech that enables patients to lead healthy lives. We need to think in the long term because a lot of orphan diseases are chronic and require lifetime madication.
-
-As company outside of the value chain and not incentivized to discontinue products in favor of higher-margin, newer drugs. We want to serve these people.
-
-We're quite open to letting our findings lead the way. We're still doing research to determine the best way to provide medication for our patients that works best for them, their doctors and our company in order to provide sustainable, long-term care.
-
-<blockquote class="shortquote">
-I would like to help people with similar experiences to feel safe and have peace of mind, knowing that their medication will always be available for them
-</blockquote>
-
 ## Some crazy ideas
 
-That said, we've thought thought of some more specific ways of solving the problem. Our craziest (and coolest) idea so far is to build a 3D printer for pills. The doctor could send the prescription directly to a pharmacy with this device (or the person's home if legal) and the person would have a month's worth of pills. 
+That said, we've thought of some more specific ways of solving the problem. Our craziest (and coolest) idea so far is to build a 3D printer for pills. The doctor could send the prescription directly to a pharmacy with this device (or the person's home if legal) and the person would have a month's worth of pills. 
 
 In the early days we drafted an early prototype around crowdfunding. People would pledge towards a batch of, for example, Sjögren syndrome medication, and if the goal was met then we produce it and deliver it. This would allow us to know our production size beforehand so we know we'll sell entire batches. Since we'll target chronic diseases we could continue production for these patients indefinitely. 
 
@@ -76,12 +58,30 @@ We see a gap in a market with very high demand (need, not want), with potential 
 
 The Orphan Drug Act of 1983 and similar regulations worldwide generate incentives for the development of orphan drugs, such as tax breaks and extended periods of market exclusivity. Once these benefits expire, big companies have few reasons to keep them in the market, so they stop producing them in order to free up manufacturing and distribution capacities for higher-margin, higher-demand drugs. Patients who rely on orphan drugs to lead a normal, happy life are left hanging and have to resort to alternative (sometimes extreme) measures to treat their conditions.
 
-We've seen some examples of matching patients with what they need. Al Roth, the Nobel laureate and Stanford professor of economics built a _Kidney Exchange_ back in 2003 where people in need of kidney transplant could be matched to kidney donors. In the same way we want to **match patients with the correct medication** and help them improve their quality of life.
+We’ve seen some creative examples of matching supply and demand in the healthcare market. Al Roth, the Nobel laureate and Stanford professor of economics built a _Kidney Exchange_ back in 2003 where people in need of kidney transplant could be matched to kidney donors. In the same way we want to **match patients with the medication they need** and help them improve their quality of life.
 
 Perfectly safe and useful medication stops being produced each year because there are not enough financial incentives for _big pharma_ to keep producing them. Many of these are intended to treat chronic diseases and people are left adrift with no alternatives.
 
 <blockquote class="shortquote"> 
 We all worry sick that the eye drops will get discontinued or the company who imports the drops will stop carrying them and the nightmare will begin all over again.
+</blockquote>
+
+## What we need
+
+We need to figure out if Healthpack can get started without a round of significant investment. Producing or importing medication is a capital intensive business and we want to figure out if scale is necessary to help even one patient. Scale might also be important because patients suffering orphan diseases are scattered across large geographies.
+
+We also need to answer several questions, so we'll do research and quick prototyping to refine all the hows:
+
+- Should we target patients or doctors?
+
+- Should we outsource production to a small lab and just ensure quality?
+
+- Where should we launch?
+
+- Will insurance companies be a barrier for adoption?
+
+<blockquote class="shortquote">
+I would like to help people with similar experiences to feel safe and have peace of mind, knowing that their medication will always be available for them
 </blockquote>
 
 ## It's close to our heart
